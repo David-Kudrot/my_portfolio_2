@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kolom Blog Website",
+    "desc": "Django based blog website. User can create account through email activation link and author can post any blog etc.",
+    "image": "kolom_blog",
+    "category": "fullstack",
+    "links": {
+      "view": "https://www.linkedin.com/posts/david-kudrot_here-is-a-blog-wesite-named-kolom-there-activity-7178972642073354241-j-Ia?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/David-Kudrot/Kolom_Blog_website"
+    }
+  },
+  {
+    "name": "Kpulse Chat Room",
+    "desc": "This is a realtime chat web application. Made by Django.",
+    "image": "give the image name here with png",
+    "category": "fullstack",
+    "links": {
+      "view": "give here the linkedin post link",
+      "code": "https://github.com/David-Kudrot/KPulse_ChatRoom"
+    }
+  },
+  {
+    "name": "Kpulse Social App",
+    "desc": "This is a social web app. Made by Django for backend and for front-end HTML, CSS, Bootstrap and JavaScript.",
+    "image": "newsboxandroid",
+    "category": "fullstack",
+    "links": {
+      "view": "give the image name here with png",
+      "code": "https://github.com/David-Kudrot/KPulse_Social_App"
+    }
+  }
+]
